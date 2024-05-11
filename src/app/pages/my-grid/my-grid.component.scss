@@ -1,0 +1,11 @@
+#app-container {
+    width: 80%;
+    position: relative;
+    border: 2px solid red;
+}
+ 
+#selected-employee {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
